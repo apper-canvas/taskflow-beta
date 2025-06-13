@@ -1,0 +1,32 @@
+[
+  {
+    "id": "work",
+    "name": "Work",
+    "color": "#6366F1",
+    "icon": "Briefcase"
+  },
+  {
+    "id": "personal",
+    "name": "Personal",
+    "color": "#10B981",
+    "icon": "User"
+  },
+  {
+    "id": "shopping",
+    "name": "Shopping",
+    "color": "#F59E0B",
+    "icon": "ShoppingCart"
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "color": "#EF4444",
+    "icon": "Heart"
+  },
+  {
+    "id": "learning",
+    "name": "Learning",
+    "color": "#8B5CF6",
+    "icon": "BookOpen"
+  }
+]

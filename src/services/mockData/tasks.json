@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly budget report",
+    "description": "Analyze Q3 financials and prepare recommendations for Q4 budget adjustments",
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-01-15T09:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-10T08:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "2",
+    "title": "Schedule dentist appointment",
+    "description": "Book routine cleaning and checkup for next month",
+    "priority": "medium",
+    "category": "personal",
+    "dueDate": "2024-01-20T14:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-09T15:45:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "3",
+    "title": "Complete React project documentation",
+    "description": "Finish writing API documentation and user guide for the new dashboard project",
+    "priority": "high",
+    "category": "work",
+    "dueDate": "2024-01-12T17:00:00.000Z",
+    "completed": true,
+    "createdAt": "2024-01-08T10:15:00.000Z",
+    "completedAt": "2024-01-11T16:30:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "Buy groceries for meal prep",
+    "description": "Get ingredients for healthy meals: chicken, vegetables, quinoa, Greek yogurt",
+    "priority": "medium",
+    "category": "personal",
+    "dueDate": "2024-01-14T11:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-11T07:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "id": "5",
+    "title": "Plan team building event",
+    "description": "Research venues and activities for Q1 team building day. Budget: $2000",
+    "priority": "low",
+    "category": "work",
+    "dueDate": "2024-01-25T12:00:00.000Z",
+    "completed": false,
+    "createdAt": "2024-01-10T14:10:00.000Z",
+    "completedAt": null
+  }
+]
